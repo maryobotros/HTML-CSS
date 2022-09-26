@@ -1,0 +1,13 @@
+body {
+    font-family: Verdana, Arial, sans-seriff;
+}
+
+h1 {
+    color: green;
+    border: black solid 1px;
+}
+
+p {
+    color: rgb(29, 7, 128);
+    background-color: rgb(149, 146, 146);
+}
